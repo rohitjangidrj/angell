@@ -1,0 +1,284 @@
+.carousel-caption {
+    bottom: 40% !important;
+    left: 15%;
+}
+
+.navbar-expand {
+    padding: 15px 25px !important;
+}
+
+.navbar-brand-sticky {
+    width: 120px !important;
+    max-width: 100%;
+}
+
+img.navbar-brand-regular {
+    width: 140px !important;
+}
+
+.dropdown .dropdown-menu {
+    min-width: 20rem !important;
+}
+
+.dropdown-menu .nav-item {
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-expand .navbar-nav .nav-link {
+    padding: 12px 10px !important;
+    font-size: 14px;
+}
+
+.btn.btn-bordered-white {
+    border: 2px solid #7f73b1;
+}
+
+.teamsection {
+    padding: 140px 0;
+}
+
+.teamsection h2 {
+    font-size: 42px;
+    font-weight: 500;
+}
+
+.teamsection .card {
+    box-shadow: 0px 6px 19px 0px #cccccc45;
+    border: none !important;
+    border-radius: 20px !important;
+}
+
+.card img {
+    border-radius: 20px 20px 0 0;
+}
+
+.teamsection .card-body {
+    padding: 30px 20px !important;
+}
+
+#choose {
+    padding: 80px;
+}
+
+.choosefertility h2 {
+    text-transform: capitalize;
+    line-height: 1.4;
+    font-size: 42px;
+    font-weight: 500;
+}
+
+.choosefertility .buttonscutom {
+    text-align: left !important;
+}
+
+.service-thumb img {
+    border-radius: 20px;
+}
+
+#service h2 {
+    text-transform: capitalize;
+    line-height: 1.4;
+    font-size: 42px;
+    font-weight: 500;
+}
+
+#service h3 {
+    text-transform: capitalize;
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    letter-spacing: 0px;
+}
+
+#review h2 {
+    text-transform: capitalize;
+    line-height: 1.4;
+    font-size: 42px;
+    font-weight: 500;
+}
+
+#review .owl-item {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#review .single-review {
+    border-radius: 20px !important;
+    background-color: rgb(250, 250, 250) !important;
+    box-shadow: 0 10px 15px 0px #7e71af2e;
+}
+
+#contact {
+    background-color: #F8F5FF;
+    padding: 120px 0;
+}
+
+#contact h2 {
+    text-transform: capitalize;
+    line-height: 1.4;
+    font-size: 42px;
+    font-weight: 500;
+}
+
+#contact h3 {
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    letter-spacing: 0px;
+}
+
+#contact .contact-us svg {
+    color: #7e71af;
+    font-size: 36px;
+}
+
+#contact .contact-info {
+    padding: 10px 10px;
+    margin-top: 30px;
+    border-radius: 0px;
+    box-shadow: none !important;
+    background-color: transparent !important;
+}
+
+
+/* #contact-form input[type=text],
+input[type=email] {
+    border-radius: 20px;
+} */
+
+.form-group input[type=text] {
+    border-radius: 10px;
+}
+
+.form-group input[type=tel] {
+    border-radius: 10px;
+}
+
+input[type=email] {
+    border-radius: 10px !important;
+}
+
+.form-group textarea {
+    border-radius: 10px !important;
+}
+
+#contact-form button {
+    padding: 15px;
+}
+
+#contact-form button:hover {
+    color: #fff !important;
+}
+
+.btn.btn-bordered {
+    padding: 12px 30px;
+    color: #7e71af !important;
+    border: 2px solid #7e71af;
+}
+
+.btn.btn-bordered:hover {
+    padding: 12px 30px;
+    color: #fff !important;
+    background-color: #7e71af !important;
+    border: 2px solid #7e71af;
+}
+
+.btn.btn-bordered:before {
+    background: none;
+}
+
+.teamsection .btn {
+    color: #fff;
+    background-color: #7e71af !important;
+}
+
+.navbar-nav.action .btn:hover {
+    color: #fff;
+    background-color: #7e71af !important;
+}
+
+.color-3.bg-hover.active::after {
+    background: none !important;
+}
+
+.color-1.bg-hover:hover::after,
+.color-1.bg-hover.active::after {
+    background: none !important;
+}
+
+.footer-bottom {
+    background-color: #7e71af;
+}
+
+.socailiconss a {
+    line-height: 1.8;
+}
+
+.footer-top svg {
+    color: #7e71af;
+}
+
+.breadcrumb-area {
+    background-image: url(/assets/img/banner_2.jpg) !important;
+}
+
+
+/* doctor details page css start here */
+
+.single-doctor-photo img {
+    max-width: 100%;
+    width: 100%;
+    height: 480px;
+    object-fit: cover;
+    border: 5px solid rgb(236, 236, 236);
+}
+
+.single-doctor-photo h2 {
+    text-transform: capitalize;
+    line-height: 1.4;
+    font-size: 42px;
+    font-weight: 500;
+}
+
+.single-service h3 {
+    text-transform: capitalize;
+    font-size: 22px !important;
+    font-weight: 600;
+    font-family: 'Poppins';
+    letter-spacing: 0px;
+}
+
+.timingbox {
+    box-shadow: 0px 2px 19px 0px #cccccc63;
+}
+
+.timingbox h4 span {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.timingbox h3 {
+    text-transform: capitalize;
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    letter-spacing: 0px;
+}
+
+.timing .col-md-6 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.timingg .col-md-6 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.timing {
+    padding-bottom: 15px;
+    border-bottom: 2px solid #7e71af;
+}
